@@ -4,7 +4,7 @@ I built a command-line expense tracker to deepen my understanding of Java's obje
 
 The application lets users add, list, remove, and summarize expenses by category. Data is automatically saved to a file between sessions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zuGNG2l2wOA)
 
 # Development Environment
 
