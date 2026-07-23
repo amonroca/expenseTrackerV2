@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Build output
+out/
+
+# Expense data file
+expenses.dat
+
 # Log file
 *.log
 
